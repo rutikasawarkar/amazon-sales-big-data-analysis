@@ -1,4 +1,4 @@
-# amazon-sales-big-data-analysis
+# Amazon-Sales-Big-Data-Analysis
 Big Data Analysis using PySpark on Amazon Sales Dataset
 
 COMPANY: CODTECH IT SOLUTIONS PVT.LTD
