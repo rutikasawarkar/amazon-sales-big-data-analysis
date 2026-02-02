@@ -1,12 +1,12 @@
 # Amazon-Sales-Big-Data-Analysis
 Big Data Analysis using PySpark on Amazon Sales Dataset
 
-COMPANY: CODTECH IT SOLUTIONS PVT.LTD
-NAME: RUTIKA SAWARKAR
-INTERN ID: CTIS4003
-DOMAIN: DATA ANALYTICS
-DURATION: 4 WEEKS
-MENTOR: NEELA SANTOSH KUMAR
+*COMPANY*: CODTECH IT SOLUTIONS PVT.LTD
+*NAME*: RUTIKA SAWARKAR
+*INTERN ID*: CTIS4003
+*DOMAIN*: DATA ANALYTICS
+*DURATION*: 4 WEEKS
+*MENTOR*: NEELA SANTOSH KUMAR
 # DESCRIPTION:
 # Amazon Sales Big Data Analysis Using PySpark
 This project focuses on performing scalable big data analysis on an Amazon sales dataset using PySpark to demonstrate the ability to handle large, real-world datasets efficiently. The dataset contains detailed information about products, including product names, categories, pricing, discounts, customer ratings, and review metadata. Due to the size and complexity of the data, traditional data processing techniques are inefficient, making distributed processing with PySpark an ideal solution.
